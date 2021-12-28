@@ -1,0 +1,30 @@
+.navbar {
+    background-color: #58FAD0;
+    font-size: 20px;
+}
+
+.trabalhos{
+    background-color: #CEECF5;
+}
+
+.simulado{
+    background-color:#F6E3CE;
+}
+
+.plataformas{
+    background-color:#D8D8D8;
+}
+
+.sobremim {
+    background-color:#088A85;    
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
