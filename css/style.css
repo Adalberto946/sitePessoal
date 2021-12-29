@@ -28,3 +28,13 @@
     background-color: black;
     color: white;
 }
+
+p {
+    text-align: justify;
+    font-size: 14px;
+}
+
+.meu-teste {
+    text-align: center;
+    font-size: 18px;
+}
